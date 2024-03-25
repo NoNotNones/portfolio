@@ -71,7 +71,3 @@ DONGNAI TECHNICAL COLLEGE:
 
 ### Monitoring network infrastructure in production environments
 - Configured and customized Zabbix dashboard to monitoring of network elements, ensuring real-time visibility into performance and health.
-
-## Talks & Lectures
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-![Bike Study](/assets/img/bike_study.jpeg)
