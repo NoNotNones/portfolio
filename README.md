@@ -13,7 +13,7 @@ Attend industry conferences, webinars, and workshops to stay updated on the late
 Engage in self-directed learning and hands-on projects to enhance skills in DevOps tools and methodologies.
 
 ## Work Experience
-**IT Specialist @ SNA Marianapolis BIENHOA (Dec 2023 - Present_)**
+**IT Specialist @ SNA Marianapolis BIENHOA (Dec 2023 - Present)**
 - Administer and maintain company servers, ensuring high availability and optimal performance.
 - Monitor and manage the organization's firewall settings. Review and analyze firewall logs for any unusual activities. .
 - Regularly analyze logs collected by pfELK to identify security incidents, system errors, or abnormal activities. Maintain pfELK dashboards to visualize important log data and trends.
@@ -41,8 +41,7 @@ LINKEDIN ONLINE LEARNING:
 DONGNAI TECHNICAL COLLEGE:
 - IT TECHNICIAN
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
+## Technical Skills
 - Operating systems: Linux (Ubuntu/CentOS), Windows Server
 - Monitoring and Analytics: Prometheus, Grafana, ELK, Zabbix
 - Firewall: Fortinet, Sophos, pfSense
