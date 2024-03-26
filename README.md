@@ -55,7 +55,7 @@ DONGNAI TECHNICAL COLLEGE:
 - Version Control: Git, GitHub,GitLab
 - CI/CD Tools: Jenkins, Gitlab
 
-## Projects [Best practice](https://nonotnones.github.io/workshop-001/)
+## Projects & [Best practice](https://nonotnones.github.io/workshop-001/)
 ### Docker Containerization : (pfELK centralization logs)
 - Deploy and configure PFELK (pfSense & ELK Stack (Elasticsearch, Logstash, Kibana)) for real-time monitoring of network traffic and security events.
 - Kibana dashboards can be customized to display relevant information, helping administrators to quickly identify and respond to security incidents.
