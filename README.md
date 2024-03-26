@@ -12,6 +12,8 @@ Seeking to leverage expertise in systems administration to transition into a Dev
 Attend industry conferences, webinars, and workshops to stay updated on the latest DevOps trends and best practices.
 Engage in self-directed learning and hands-on projects to enhance skills in DevOps tools and methodologies.
 
+## [Workshops](https://nonotnonez.github.io/)
+
 ## Work Experience
 **IT Specialist @ SNA Marianapolis BIENHOA (Dec 2023 - Present)**
 - Administer and maintain company servers, ensuring high availability and optimal performance.
@@ -55,7 +57,7 @@ DONGNAI TECHNICAL COLLEGE:
 - Version Control: Git, GitHub,GitLab
 - CI/CD Tools: Jenkins, Gitlab
 
-## Projects & [Best practice](https://nonotnones.github.io/workshop-001/)
+## Projects
 ### Docker Containerization : (pfELK centralization logs)
 - Deploy and configure PFELK (pfSense & ELK Stack (Elasticsearch, Logstash, Kibana)) for real-time monitoring of network traffic and security events.
 - Kibana dashboards can be customized to display relevant information, helping administrators to quickly identify and respond to security incidents.
