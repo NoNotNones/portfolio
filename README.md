@@ -12,7 +12,7 @@ Seeking to leverage expertise in systems administration to transition into a Dev
 Attend industry conferences, webinars, and workshops to stay updated on the latest DevOps trends and best practices.
 Engage in self-directed learning and hands-on projects to enhance skills in DevOps tools and methodologies.
 
-### [Learning's in processing](https://nonotnonez.github.io/) & My Projects ([Link](https://nonotnones.github.io/projects/))
+### [Learning's in processing](https://nonotnonez.github.io/) & My projects ([link](https://nonotnones.github.io/projects/))
  - DevOps BootCamp (NaNa)
  - Cloud First Journey 2024 (CFJ-AWS)
 
