@@ -12,7 +12,7 @@ Seeking to leverage expertise in systems administration to transition into a Dev
 Attend industry conferences, webinars, and workshops to stay updated on the latest DevOps trends and best practices.
 Engage in self-directed learning and hands-on projects to enhance skills in DevOps tools and methodologies.
 
-### [In processing](https://nonotnonez.github.io/)
+### [In processing] (https://nonotnonez.github.io/)
  - DevOps BootCamp (NaNa)
  - Cloud First Journey 2024 (CFJ-AWS)
 
@@ -59,8 +59,8 @@ DONGNAI TECHNICAL COLLEGE:
 - Version Control: Git, GitHub,GitLab
 - CI/CD Tools: Jenkins, Gitlab
 
-## Projects
-### Docker Containerization : (pfELK centralization logs)
+## [Projects](https://nonotnones.github.io/projects/)
+### [Docker Containerization](https://nonotnones.github.io/projects/1-project-001/) : (pfELK centralization logs)
 - Deploy and configure PFELK (pfSense & ELK Stack (Elasticsearch, Logstash, Kibana)) for real-time monitoring of network traffic and security events.
 - Kibana dashboards can be customized to display relevant information, helping administrators to quickly identify and respond to security incidents.
 - Improved log analysis capabilities, enabling rapid detection and response to security incidents.
