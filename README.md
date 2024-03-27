@@ -65,13 +65,13 @@ DONGNAI TECHNICAL COLLEGE:
 - Kibana dashboards can be customized to display relevant information, helping administrators to quickly identify and respond to security incidents.
 - Improved log analysis capabilities, enabling rapid detection and response to security incidents.
 
-### Network Security Enhancement:  (Integrate ntop-ng with pfsense firewall)
+### [Network Security Enhancement](https://nonotnones.github.io/projects/2-project-002/):  (Integrate ntop-ng with pfsense firewall)
 - Real-time monitoring and analysis of network traffic, offering insights into bandwidth usage, top talkers, and application protocols.
 - Implemented user and host tracking features to facilitate troubleshooting, monitor user behavior, and identify potential security incidents
 
-### Automated System Monitoring
+### [Automated System Monitoring](https://nonotnones.github.io/projects/4-project-004/)
 - Connecting Zabbix and Hikvision ISAPI to monitor camera status and alert for system issues.
 - Real-time surveillance metrics through Grafana dashboards, reduction in downtime, and quicker incident resolution.
 
-### Monitoring network infrastructure in production environments
+### [Monitoring network infrastructure in production environments](https://nonotnones.github.io/projects/3-project-003/)
 - Configured and customized Zabbix dashboard to monitoring of network elements, ensuring real-time visibility into performance and health.
