@@ -1,6 +1,6 @@
 # IT SYSTEM & NETWORK ADMINISTRATION
 
-## OBJECTIVES
+## Objectives
 
 Experienced in IT with a strong background in cyber security, systems, and network administration.
 Skilled in following processes and procedures, problem-solving, and working well under pressure.
@@ -17,14 +17,14 @@ Engage in self-directed learning and hands-on projects to enhance skills in DevO
  - Cloud First Journey 2024 (CFJ-AWS)
 
 ## Work Experience
-**IT Specialist @ SNA Marianapolis BIENHOA (Dec 2023 - Present)**
+**IT Specialist @ SNA Marianapolis BienHoa (Dec 2023 - Present)**
 - Administer and maintain company servers, ensuring high availability and optimal performance.
 - Monitor and manage the organization's firewall settings. Review and analyze firewall logs for any unusual activities. .
 - Regularly analyze logs collected by pfELK to identify security incidents, system errors, or abnormal activities. Maintain pfELK dashboards to visualize important log data and trends.
 - Configure and maintain network devices such as routers, switches, and access points. Monitor network performance and troubleshoot connectivity issues
 - Coordinate with other IT teams for cross-functional tasks. Participate in team meetings to discuss ongoing projects and challenges. Collaborate with vendors for support and issue resolution.
 
-**IT Suppervisor @ SAITEX INTERNATIONAL DONGNAI VN (2017 - 2023)**
+**IT Suppervisor @ Saitex International DongNai (2017 - 2023)**
 - Make sure the network infrastructure, application systems and production systems working smoothly. Defining tasks needed to resolve incidents. 
 - Analyzing, troubleshooting, and attempting to resolve issues on first contact. Responsible for following procedures and escalating the issues to another group, another team, or perhaps another vendor if the issue is not resolved.
 - Technical troubleshooting hardware, software, computer conference systems, printer servers, file servers, email servers and applications.
