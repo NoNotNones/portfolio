@@ -15,6 +15,8 @@ Engage in self-directed learning and hands-on projects to enhance skills in DevO
 ### [Learning's in processing](https://nonotnonez.github.io/) & My projects ([link](https://nonotnones.github.io/projects/))
  - DevOps BootCamp (NaNa)
  - Cloud First Journey 2024 (CFJ-AWS)
+### Certification
+ - [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/f9d56659-9331-4fae-95ff-e70db3cf947a/public_url)
 
 ## Work Experience
 **IT Specialist @ SNA Marianapolis BienHoa (Dec 2023 - Present)**
