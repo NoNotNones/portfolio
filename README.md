@@ -17,6 +17,8 @@ Engage in self-directed learning and hands-on projects to enhance skills in DevO
  - Cloud First Journey 2024 (CFJ-AWS)
    
 ### Certification
+![VPC](/assets/img/cloud-quest.png?featherlight=false&width=10pc)
+![VPC](/assets/img/cloud-quest1.png?featherlight=false&width=10pc)
  - [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/f9d56659-9331-4fae-95ff-e70db3cf947a/public_url)
 
 ## Work Experience
