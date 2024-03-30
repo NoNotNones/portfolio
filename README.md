@@ -20,6 +20,7 @@ Engage in self-directed learning and hands-on projects to enhance skills in DevO
 ![VPC](/portfolio/assets/img/cloud-quest.png)
 ![VPC](/assets/img/linkedin.png)
  - [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/f9d56659-9331-4fae-95ff-e70db3cf947a/public_url)
+ - [AWS training and certification](https://nonotnones.github.io/projects/5-project-005/)
  - Linkedin Learning
 
 ## Work Experience
