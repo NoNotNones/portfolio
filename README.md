@@ -31,6 +31,9 @@ Engage in self-directed learning and hands-on projects to enhance skills in DevO
      
  - Terraform: Managing Network Infrastructure (AWS)
    - VPC - Subnets - EC2 - NAT - VPC Peering - Transit Gateway
+  
+ - HomeLab- [DevOps for Freshers](https://devopsedu.vn/courses/devops-for-freshers/)
+   - Linux (Project: Fontend/Java Spring) - Git - Docker - CICD (Gitlab/Jenkins) - Monitoring (Zabbix / Grafana)
 
 
 ## Work Experience
