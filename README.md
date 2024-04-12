@@ -25,9 +25,10 @@ Engage in self-directed learning and hands-on projects to enhance skills in DevO
 
 ### Hand-On Labs:
  - DevOps Projects:
-   -  CICD Static Website : Docker - Docker Compose - Terraform - Jenkins - AWS
+   - CICD Static Website : Docker - Docker Compose - Terraform - Jenkins - AWS
      
  - Terraform: Managing Network Infrastructure (AWS)
+   - VPC - Subnets - EC2 - NAT - VPC Peering - Transit Gateway
 
 
 ## Work Experience
