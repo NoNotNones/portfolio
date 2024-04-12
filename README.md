@@ -12,9 +12,9 @@ Seeking to leverage expertise in systems administration to transition into a Dev
 Attend industry conferences, webinars, and workshops to stay updated on the latest DevOps trends and best practices.
 Engage in self-directed learning and hands-on projects to enhance skills in DevOps tools and methodologies.
 
-### [Learning's in processing](https://nonotnonez.github.io/) & My projects ([link](https://nonotnones.github.io/projects/))
- - DevOps BootCamp (NaNa)
- - Cloud First Journey 2024 (CFJ-AWS)
+### [Learning's in processing](https://nonotnonez.github.io/)
+  - Cloud First Journey 2024 (CFJ-AWS)
+  - DevOps BootCamp (NaNa)
    
 ### Certification
 ![VPC](/portfolio/assets/img/cloud-quest.png)
@@ -22,6 +22,9 @@ Engage in self-directed learning and hands-on projects to enhance skills in DevO
  - [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/f9d56659-9331-4fae-95ff-e70db3cf947a/public_url)
  - [AWS training and certification](https://nonotnones.github.io/projects/5-project-005/)
  - Linkedin Learning
+
+## Hand-On Labs:
+ - Terraform: Managing Network Infrastructure (AWS)
 
 ## Work Experience
 **IT Specialist @ SNA Marianapolis BienHoa (Dec 2023 - Present)**
