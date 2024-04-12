@@ -24,7 +24,7 @@ Engage in self-directed learning and hands-on projects to enhance skills in DevO
  - [Linkedin Learning](https://www.linkedin.com/learning/?u=103729754)
 
 ### Hand-On Labs:
- - DevOps project:
+ - DevOps Projects:
    -  CICD Static Website : Docker - Docker Compose - Terraform - Jenkins - AWS
      
  - Terraform: Managing Network Infrastructure (AWS)
