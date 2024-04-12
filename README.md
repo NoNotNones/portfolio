@@ -13,7 +13,7 @@ Attend industry conferences, webinars, and workshops to stay updated on the late
 Engage in self-directed learning and hands-on projects to enhance skills in DevOps tools and methodologies.
 
 ### [Learning's in processing](https://nonotnonez.github.io/)
-  - Cloud First Journey 2024 (CFJ-AWS)
+  - Cloud First Journey 2024 (FCJ-AWS)
   - DevOps BootCamp (NaNa)
    
 ### Certification
