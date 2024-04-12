@@ -21,10 +21,14 @@ Engage in self-directed learning and hands-on projects to enhance skills in DevO
 ![VPC](/assets/img/linkedin.png)
  - [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/f9d56659-9331-4fae-95ff-e70db3cf947a/public_url)
  - [AWS training and certification](https://nonotnones.github.io/projects/5-project-005/)
- - Linkedin Learning
+ - [Linkedin Learning](https://www.linkedin.com/learning/?u=103729754)
 
-## Hand-On Labs:
+### Hand-On Labs:
+ - DevOps project:
+   -  CICD Static Website : Docker - Docker Compose - Terraform - Jenkins - AWS
+     
  - Terraform: Managing Network Infrastructure (AWS)
+
 
 ## Work Experience
 **IT Specialist @ SNA Marianapolis BienHoa (Dec 2023 - Present)**
