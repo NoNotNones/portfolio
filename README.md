@@ -23,7 +23,9 @@ Engage in self-directed learning and hands-on projects to enhance skills in DevO
  - [AWS training and certification](https://nonotnones.github.io/projects/5-project-005/)
  - [Linkedin Learning](https://www.linkedin.com/learning/?u=103729754)
 
-### Hand-On Labs:
+### Side Projects
+ - [SNA BienHoa](https://nonotnones.github.io/projects/)
+   - Firewall analysis system - Network Security & Monitoring
  - DevOps Projects:
    - CICD Static Website : Docker - Docker Compose - Docker Hub - Terraform - Jenkins - AWS
 
@@ -44,7 +46,7 @@ Engage in self-directed learning and hands-on projects to enhance skills in DevO
 - Configure and maintain network devices such as routers, switches, and access points. Monitor network performance and troubleshoot connectivity issues
 - Coordinate with other IT teams for cross-functional tasks. Participate in team meetings to discuss ongoing projects and challenges. Collaborate with vendors for support and issue resolution.
 
-**IT Suppervisor @ Saitex International DongNai (2017 - 2023)**
+**IT Supervisor @ Saitex International DongNai (2017 - 2023)**
 - Make sure the network infrastructure, application systems and production systems working smoothly. Defining tasks needed to resolve incidents. 
 - Analyzing, troubleshooting, and attempting to resolve issues on first contact. Responsible for following procedures and escalating the issues to another group, another team, or perhaps another vendor if the issue is not resolved.
 - Technical troubleshooting hardware, software, computer conference systems, printer servers, file servers, email servers and applications.
@@ -79,7 +81,7 @@ DONGNAI TECHNICAL COLLEGE:
 - Version Control: Git, GitHub,GitLab
 - CI/CD Tools: Jenkins, Gitlab
 
-## [Projects](https://nonotnones.github.io/projects/)
+## [SNA BienHoa Projects](https://nonotnones.github.io/projects/)
 ### [Docker Containerization](https://nonotnones.github.io/projects/1-project-001/) : (pfELK centralization logs)
 - Deploy and configure PFELK (pfSense & ELK Stack (Elasticsearch, Logstash, Kibana)) for real-time monitoring of network traffic and security events.
 - Kibana dashboards can be customized to display relevant information, helping administrators to quickly identify and respond to security incidents.
