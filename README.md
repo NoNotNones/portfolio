@@ -24,20 +24,10 @@ Engage in self-directed learning and hands-on projects to enhance skills in DevO
  - [Linkedin Learning](https://www.linkedin.com/learning/?u=103729754)
 
 ### Side Projects
- - [SNA BienHoa](https://nonotnones.github.io/projects/)
-   - Firewall analysis system - Network Security & Monitoring
- - DevOps Projects:
-   - CICD Static Website : Docker - Docker Compose - Docker Hub - Terraform - Jenkins - AWS
-
- - [Hugo](https://gohugo.io/) (Building Website) with Jenkins CICD: Github - Jenkins - Docker - Reverse Proxy - AWS
-     
- - [Terraform](https://nonotnonez.github.io/ws-0001/): Managing Network Infrastructure (AWS)
-   - VPC - Subnets - EC2 - NAT - VPC Peering - Transit Gateway
-  
- - HomeLab- [DevOps for Freshers](https://devopsedu.vn/courses/devops-for-freshers/)
-   - Linux (Project: Fontend/Java Spring) - Git - Docker - CICD (Gitlab/Jenkins) - Monitoring (Zabbix / Grafana)
-
-
+Follow this link to view my projects:
+ - [Infratructure as Code](https://nonotnonez.github.io/ws-0001/)
+ - [Network & System Admin](https://nonotnones.github.io/projects/)
+ 
 ## Work Experience
 **IT Specialist @ SNA Marianapolis BienHoa (Dec 2023 - Present)**
 - Administer and maintain company servers, ensuring high availability and optimal performance.
