@@ -25,8 +25,10 @@ Engage in self-directed learning and hands-on projects to enhance skills in DevO
 
 ### Side Projects
 Follow this link to view my projects:
- - [Infratructure as Code](https://nonotnonez.github.io/ws-0001/)
- - [Network & System Admin](https://nonotnones.github.io/projects/)
+ - **DevOps Projects**
+     Follow this links: [https://nonotnonez.github.io/cicd-ws](https://nonotnonez.github.io/cicd-ws/)
+ - **Network & System Admin**
+     Follpw this links: [https://nonotnones.github.io/projects](https://nonotnones.github.io/projects/)
  
 ## Work Experience
 **IT Specialist @ SNA Marianapolis BienHoa (Dec 2023 - Present)**
