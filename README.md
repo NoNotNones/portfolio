@@ -112,15 +112,16 @@ Experienced in implementing monitoring-driven operations, secure access control,
 
 ## CERTIFICATIONS &  PROFESSIONAL DEVELOPMENT
 **Core Certifications**
-ITIL v4 Foundation – IT Service Management
-ISO/IEC 27001:2022 – Information Security Management
+- ITIL v4 Foundation – IT Service Management
+- ISO/IEC 27001:2022 – Information Security Management
 
 **Cloud & DevOps**
-Microsoft Azure AZ-400 – DevOps Engineer (In progress)
+- Microsoft Azure AZ-400 – DevOps Engineer (In progress)
+- Microsoft Azure AZ-104
 
 **Systems & Infrastructure Learning**
-Advanced System Administration (Microsoft & LinkedIn Learning)
-VMware vSphere Virtualization (VCP 6.5 DCV training)
+- Advanced System Administration (Microsoft & LinkedIn Learning)
+- VMware vSphere Virtualization (VCP 6.5 DCV training)
 
 DONGNAI TECHNICAL COLLEGE:
 - Network Administrator 
