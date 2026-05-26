@@ -89,7 +89,14 @@ Experienced in implementing monitoring-driven operations, secure access control,
 
  
 ## Work Experience
-**IT Specialist @ SNA Marianapolis BienHoa (Dec 2023 - Present)**
+**System Administrator @ SAITEX International Dong Nai | Jun 2024 – Present**
+-	Operated and optimized enterprise network security using Sophos XGS 2300, protecting 600+ endpoints through policy tuning and continuous monitoring.
+-	Improved system reliability and user experience by optimizing network performance across UniFi Wi-Fi and Cisco LAN environments.
+-	Managed identity and access systems (Microsoft 365, Active Directory), implementing secure authentication (VPN, MFA) for 100+ users.
+-	Designed and maintained centralized monitoring and logging platform (Zabbix + ELK Stack), enabling proactive issue detection and faster incident resolution.
+-	Standardized IT operations using ServiceDesk Plus, improving SLA tracking, incident response time, and operational visibility. 
+
+**IT Specialist @ SNA Marianapolis BienHoa (Dec 2023 - May 2024)**
 - Administer and maintain company servers, ensuring high availability and optimal performance.
 - Monitor and manage the organization's firewall settings. Review and analyze firewall logs for any unusual activities. .
 - Regularly analyze logs collected by pfELK to identify security incidents, system errors, or abnormal activities. Maintain pfELK dashboards to visualize important log data and trends.
@@ -103,24 +110,21 @@ Experienced in implementing monitoring-driven operations, secure access control,
 - Recieve request from customers, communicate and trouble shoot via different support channels, such as the phone, email, chat, text, remote support, and face-to-face communication.
 - Maintaining an inventory of hardware, software and software licenses, up-to-date inventory record for all IT equipment. 
 
-## Education
-LINKEDIN ONLINE LEARNING:
-- DevOps Foundations: Continuous Delivery/Continuous Integration
-- AWS Certified Cloud Practitioner (CLF-C01) Cert Prep
-- Certified Kubernetes Administrator (CKA) Cert Prep
-- Docker Essential Training
-- Microsoft 365 Essential Training for Administrators 
-- VMware vSphere Data Center Virtualization Exam VCP6.5DCV
-- CompTIA A+, CompTIA Network +
-- CCNA , MSCA , LINUX LPI 1 & 2
+## CERTIFICATIONS &  PROFESSIONAL DEVELOPMENT
+**Core Certifications**
+ITIL v4 Foundation – IT Service Management
+ISO/IEC 27001:2022 – Information Security Management
+
+**Cloud & DevOps**
+Microsoft Azure AZ-400 – DevOps Engineer (In progress)
+
+**Systems & Infrastructure Learning**
+Advanced System Administration (Microsoft & LinkedIn Learning)
+VMware vSphere Virtualization (VCP 6.5 DCV training)
 
 DONGNAI TECHNICAL COLLEGE:
-- IT TECHNICIAN
- 
-### [Learning's in processing](https://nonotnonez.github.io/)
-  - Cloud First Journey 2024 (FCJ-AWS)
-  - DevOps BootCamp (NaNa)
-   
+- Network Administrator 
+
 ### Certification
 ![VPC](/assets/img/cloud-quest.png)
 ![VPC](/assets/img/linkedin.png)
