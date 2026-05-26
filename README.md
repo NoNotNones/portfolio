@@ -1,16 +1,26 @@
-# IT SYSTEM & NETWORK ADMINISTRATION
+# IT INFRASTUCTURE & PLATFORM ENGINEER
 
 ## Objectives
 
-Experienced in IT with a strong background in cyber security, systems, and network administration.
-Skilled in following processes and procedures, problem-solving, and working well under pressure.
-Continuously enhancing knowledge through self-study and training to adapt to IT environments.
-Seeking to leverage expertise in systems administration to transition into a DevOps role where I can utilize my skills to contribute to company growth.
+IT Infrastructure & Platform Engineer with hands-on experience designing, operating, and optimizing hybrid environments across on-premise and cloud platforms. Strong focus on automation, virtualization, and system reliability, with proven ability to build scalable infrastructure, enhance observability, and streamline IT operations.
+Experienced in implementing monitoring-driven operations, secure access control, and cost-optimized infrastructure, aligned with ITIL practices. Currently advancing towards DevOps and cloud-native engineering, with practical experience in Kubernetes, container networking, and infrastructure automation
 
-## Professional Development
 
-Attend industry conferences, webinars, and workshops to stay updated on the latest DevOps trends and best practices.
-Engage in self-directed learning and hands-on projects to enhance skills in DevOps tools and methodologies.
+## CORE COMPETENCIES
+	Infrastructure Automation & Optimization
+	System Reliability & Observability
+	Incident Response & Monitoring Strategy
+	Network & Security Engineering
+	Virtualization & Platform Engineering
+
+## TECHNICAL SKILLS
+	Cloud & Identity: AWS, Microsoft Azure, Microsoft 365, Entra ID
+	Systems: Windows Server (2019, 2022), Linux (Ubuntu, CentOS)
+	Observability: Zabbix, ELK Stack, Prometheus, Grafana
+	Security: Sophos, Fortinet, pfSense.
+	Infrastructure: Cisco (Routing & Switching), Aruba, UniFi
+	Virtualization & Containers: VMware ESXi, Docker, Kubernetes
+	DevOps & Automation: Git (GitHub, GitLab), Terraform (basic), Jenkins
 
 ### [Learning's in processing](https://nonotnonez.github.io/)
   - Cloud First Journey 2024 (FCJ-AWS)
