@@ -22,26 +22,6 @@ Experienced in implementing monitoring-driven operations, secure access control,
 -	Virtualization & Containers: VMware ESXi, Docker, Kubernetes
 -	DevOps & Automation: Git (GitHub, GitLab), Terraform (basic), Jenkins
 
-### [Learning's in processing](https://nonotnonez.github.io/)
-  - Cloud First Journey 2024 (FCJ-AWS)
-  - DevOps BootCamp (NaNa)
-   
-### Certification
-
-![VPC](/assets/img/cloud-quest.png)
-![VPC](/assets/img/linkedin.png)
-
- - [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/f9d56659-9331-4fae-95ff-e70db3cf947a/public_url)
- - [AWS training and certification](https://nonotnones.github.io/projects/5-project-005/)
- - [Linkedin Learning](https://www.linkedin.com/learning/?u=103729754)
-
-### Side Projects
-Follow this link to view my projects:
- - **DevOps Projects**
-    - Follow this link: [https://nonotnonez.github.io/cicd-ws](https://nonotnonez.github.io/cicd-ws/)
- - **Network & System Admin**
-    - Follow this link: [https://nonotnones.github.io/projects](https://nonotnones.github.io/projects/)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Cloud -->
@@ -136,20 +116,25 @@ LINKEDIN ONLINE LEARNING:
 
 DONGNAI TECHNICAL COLLEGE:
 - IT TECHNICIAN
+ 
+### [Learning's in processing](https://nonotnonez.github.io/)
+  - Cloud First Journey 2024 (FCJ-AWS)
+  - DevOps BootCamp (NaNa)
+   
+### Certification
+![VPC](/assets/img/cloud-quest.png)
+![VPC](/assets/img/linkedin.png)
 
-## Technical Skills
-- Operating systems: Linux (Ubuntu/CentOS), Windows Server
-- Monitoring and Analytics: Prometheus, Grafana, ELK, Zabbix
-- Firewall: Fortinet, Sophos, pfSense
-- Backup and Restore: Veam, TrueNas
-- Containerization: K8s, Docker, Vagrant
-- Network Infrastructure: Aruba, Cisco switches, routers, and access points
-- Video Surveillance: Integration with Hikvision API for camera management
-- Scripting: Bash, Python, PowerShell
-- Cloud Platforms: AWS 
-- Infratructure as Code: Terraform
-- Version Control: Git, GitHub,GitLab
-- CI/CD Tools: Jenkins, Gitlab
+ - [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/f9d56659-9331-4fae-95ff-e70db3cf947a/public_url)
+ - [AWS training and certification](https://nonotnones.github.io/projects/5-project-005/)
+ - [Linkedin Learning](https://www.linkedin.com/learning/?u=103729754)
+
+### Side Projects
+Follow this link to view my projects:
+ - **DevOps Projects**
+    - Follow this link: [https://nonotnonez.github.io/cicd-ws](https://nonotnonez.github.io/cicd-ws/)
+ - **Network & System Admin**
+    - Follow this link: [https://nonotnones.github.io/projects](https://nonotnones.github.io/projects/)
 
 ## [Projects](https://nonotnones.github.io/projects/)
 ### [Docker Containerization](https://nonotnones.github.io/projects/1-project-001/) : (pfELK centralization logs)
